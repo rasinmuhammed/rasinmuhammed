@@ -31,7 +31,7 @@ Repository: [Travelling-Salesman-Problem](https://github.com/rasinmuhammed/Trave
 I'm always excited to collaborate on exciting projects and engage in thought-provoking discussions. Feel free to reach out to me through any of the following channels:
 
 - 📧 Email: [rasinbinabdulla@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/rasinmuhammed]
+- 💼 LinkedIn: [www.linkedin.com/in/rasinmuhammed]
 
 Let's connect and together create amazing things that leave a lasting impact on the world!
 
